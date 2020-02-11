@@ -1,0 +1,2 @@
+# markov_chatbot_from_LINE
+LINEのトーク履歴からマルコフ連鎖を利用してチャットボットを作成します
